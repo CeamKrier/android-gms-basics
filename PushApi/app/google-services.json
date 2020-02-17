@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "715901393767",
+    "firebase_url": "https://pushapihm.firebaseio.com",
+    "project_id": "pushapihm",
+    "storage_bucket": "pushapihm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715901393767:android:c6025002f5a513f8952dc2",
+        "android_client_info": {
+          "package_name": "com.example.pushapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715901393767-0rd2iqdtetb31ju7n13q20uoiu2biu8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushapi",
+            "certificate_hash": "2517965b800de252aeeb8ee14ef454d923829bce"
+          }
+        },
+        {
+          "client_id": "715901393767-ddsn6sepobdcehk3emfn8hpihag5o1mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-srQNA_5MsCw8pcYqP_N3C8YIXPJ1eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715901393767-ddsn6sepobdcehk3emfn8hpihag5o1mt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
